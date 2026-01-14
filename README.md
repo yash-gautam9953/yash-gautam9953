@@ -32,6 +32,10 @@ A cross-platform automation tool that simplifies common Git workflows into a sin
 - Works on Windows and Linux  
 🔗 https://github.com/yash-gautam9953/GIT-AUTOMATION-TOOL
 
+🔗 https://yash-gautam9953.github.io/GIT-AUTOMATION-TOOL/
+
+
+
 ---
 
 ## 📚 Currently Learning
