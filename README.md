@@ -10,7 +10,7 @@ I enjoy building scalable, cloud-native systems and creating tools that reduce d
 - Cloud-native infrastructure on **Microsoft Azure**
 - Containerization with **Docker**
 - Secrets management using **Doppler**
-- Backend and automation tools built with **Go (Golang)**
+- Backend and automation tools built with **Go (Golang) & NodeJs**
 - CI/CD pipelines and system automation
 
 ---
