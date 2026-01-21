@@ -8,10 +8,9 @@ I enjoy building scalable, cloud-native systems and creating tools that reduce d
 
 ## 🚀 What I Work On
 - Cloud-native infrastructure on **Microsoft Azure**
-- Infrastructure as Code using **Terraform**
-- Containerization and orchestration with **Docker & Kubernetes**
-- Secrets management using **HashiCorp Vault**
-- Backend and automation tools built with **Go (Golang)** and **Python**
+- Containerization with **Docker**
+- Secrets management using **Doppler**
+- Backend and automation tools built with **Go (Golang)**
 - CI/CD pipelines and system automation
 
 ---
@@ -22,7 +21,7 @@ A Go-based CLI tool that automatically generates Dockerfiles for applications, r
 
 - Zero-config Dockerfile generation
 - Language detection and port mapping
-- Built using Go and Docker APIs  
+- Built using Go and Docker Commands 
 🔗 https://github.com/yash-gautam9953/docify
 
 ### 🔹 GitEasy
@@ -30,9 +29,9 @@ A cross-platform automation tool that simplifies common Git workflows into a sin
 
 - Automates init, add, commit, and push
 - Works on Windows and Linux  
-🔗 https://github.com/yash-gautam9953/GIT-AUTOMATION-TOOL
+🔗 https://github.com/yash-gautam9953/GitEasy
 
-🔗 https://yash-gautam9953.github.io/GIT-AUTOMATION-TOOL/
+🔗 https://yash-gautam9953.github.io/GitEasy
 
 
 
@@ -41,7 +40,6 @@ A cross-platform automation tool that simplifies common Git workflows into a sin
 ## 📚 Currently Learning
 - Advanced Kubernetes & container security
 - DevSecOps practices
-- Generative AI integrations for developer tooling
 - Cloud cost optimization and scalability patterns
 
 ---
@@ -55,8 +53,8 @@ Gautam Buddha University, Greater Noida
 
 ## 🧰 Tech Stack
 **Cloud:** Azure, AWS, GCP  
-**DevOps:** Docker, Kubernetes, Terraform, HashiCorp Vault, Ansible  
-**CI/CD & Monitoring:** GitHub Actions, Travis CI, Prometheus, Grafana  
+**DevOps:** Docker, Terraform, Doppler 
+**CI/CD & Monitoring:** GitHub Actions, Travis CI, Data Dog , GitLab
 **Languages:** Go, Python, Shell, SQL  
 **OS:** Linux
 
