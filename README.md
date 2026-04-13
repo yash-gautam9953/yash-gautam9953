@@ -71,23 +71,7 @@ A cross-platform automation tool that simplifies common Git workflows into a sin
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-gautam9953&theme=dark&hide_border=false&show_icons=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-gautam9953&layout=compact&theme=dark&hide_border=false" height="150px"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yash-gautam9953&theme=dark&hide_border=false" height="150px"/>
-</p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-gautam9953&theme=radical&no-frame=true&margin-w=4"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 <p align="center">
