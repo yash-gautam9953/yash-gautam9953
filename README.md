@@ -82,11 +82,3 @@ A cross-platform automation tool that simplifies common Git workflows into a sin
 
 ---
 
-## ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Tech GIF" />
-</div>
